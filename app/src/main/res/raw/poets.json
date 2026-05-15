@@ -1,0 +1,172 @@
+﻿[
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fbasavanna.jpg?alt=media",
+        "id":  1,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಬಸವಣ್ಣನವರು ಕರ್ನಾಟಕದ ಕಲಚುರಿ ಅರಸ ಬಿಜ್ಜಳನ ಅರಮನೆಯ ತತ್ವಜ್ಞಾನಿ, ರಾಜನೀತಿಜ್ಞ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕರಾಗಿದ್ದರು. ಲಿಂಗಾಯತ ಚಳವಳಿಗೆ ಬಲ ನೀಡಿ ಅನುಭವ ಮಂಟಪದ ಮೂಲಕ ಆಧ್ಯಾತ್ಮಿಕ ಸಂವಾದಕ್ಕೆ ದಾರಿ ತೆರೆದರು. ಅವರ ವಚನಗಳು ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಜಾತಿ ತಾರತಮ್ಯ ಮತ್ತು ಖಾಲಿ ಆಚರಣೆಗಳನ್ನು ತಿರಸ್ಕರಿಸುತ್ತವೆ. ಶ್ರಮ, ಸಮಾನತೆ, ಕರುಣೆ ಮತ್ತು ನೇರ ಭಕ್ತಿಯನ್ನು ಅವರು ಸಾಹಿತ್ಯದ ಕೇಂದ್ರವನ್ನಾಗಿಸಿದರು.",
+        "period":  "12th Century / 12ನೇ ಶತಮಾನ (1134–1196)",
+        "bio":  "Basavanna was a philosopher, statesman, and social reformer in the Kalachuri court of King Bijjala in Karnataka. He founded the Lingayat movement and shaped the Anubhava Mantapa as a forum for spiritual and social dialogue. His Vachanas use direct Kannada to reject caste hierarchy and empty ritual. He made labor, equality, compassion, and personal devotion central to Kannada literary thought.",
+        "name":  "Basavanna",
+        "nameKannada":  "ಬಸವಣ್ಣ",
+        "famousWorks":  [
+                            "Vachana Sahitya",
+                            "Kayakave Kailasa",
+                            "Anubhavamantapa Discourses",
+                            "Shat-sthala Vachanas"
+                        ],
+        "photoPlaceholderColor":  "#B5451B"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fakka.jpg?alt=media",
+        "id":  2,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಅಕ್ಕ ಮಹಾದೇವಿಯವರು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮೊದಲ ಪ್ರಮುಖ ಮಹಿಳಾ ಕವಯಿತ್ರಿಯರಲ್ಲಿ ಒಬ್ಬರು. ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನನ್ನು ದೈವಿಕ ಪ್ರಿಯನಾಗಿ ಕಾಣುವ ಅವರ ವಚನಗಳು ನಿರ್ಭಯ ಆತ್ಮೀಯತೆಯಿಂದ ಕೂಡಿವೆ. ಸಮಾಜದ ರೂಢಿ ಮತ್ತು ಪಿತೃತ್ವದ ನಿಯಂತ್ರಣಗಳಿಗೆ ಅವರು ತ್ಯಾಗ ಜೀವನದ ಮೂಲಕ ಸವಾಲು ಹಾಕಿದರು. ಅವರ ಕಾವ್ಯವು ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ, ತವಕ ಮತ್ತು ಆತ್ಮಜ್ಞಾನದ ಪ್ರಕಾಶಮಾನ ದಾಖಲೆ.",
+        "period":  "12th Century / 12ನೇ ಶತಮಾನ (c.1130–1160)",
+        "bio":  "Akka Mahadevi was one of the earliest major women poets of Kannada literature. Her Vachanas speak with fearless intimacy to Chennamallikarjuna, whom she accepted as her divine beloved. She challenged social convention and patriarchal control through a life of renunciation. Her poetry remains a luminous record of spiritual freedom, longing, and self-knowledge.",
+        "name":  "Akka Mahadevi",
+        "nameKannada":  "ಅಕ್ಕ ಮಹಾದೇವಿ",
+        "famousWorks":  [
+                            "Akka Mahadevi Vachanas",
+                            "Yoganga Trividhi",
+                            "Chennamallikarjuna Vachanas",
+                            "Spiritual Songs"
+                        ],
+        "photoPlaceholderColor":  "#8B3A62"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fallama.jpg?alt=media",
+        "id":  3,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಅಲ್ಲಮ ಪ್ರಭು ವಚನ ಚಳವಳಿಯ ಮಿಸ್ಟಿಕ್ ಕವಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದರ್ಶಕರಾಗಿದ್ದರು. ಅವರ ವಚನಗಳು ಸಂಕ್ಷಿಪ್ತ, ವಿರೋಧಾಭಾಸಪೂರ್ಣ ಮತ್ತು ಆಳವಾದ ತತ್ವಚಿಂತನೆಯಿಂದ ಕೂಡಿವೆ. ಅನುಭವ ಮಂಟಪದಲ್ಲಿ ಅವರು ಪ್ರಮುಖ ಸಾನ್ನಿಧ್ಯವಾಗಿ ಸಾಧಕರನ್ನು ಹೊರಗಿನ ಧಾರ್ಮಿಕ ಗುರುತುಗಳಾಚೆಗೆ ಕರೆದೊಯ್ದರು. ಅವರ ಕಾವ್ಯವು ಮೌನ, ಶೂನ್ಯತೆ, ಜಾಗೃತಿ ಮತ್ತು ಗುಹೇಶ್ವರನ ಅಡಗಿದ ಸಾನ್ನಿಧ್ಯವನ್ನು ಅನ್ವೇಷಿಸುತ್ತದೆ.",
+        "period":  "12th Century / 12ನೇ ಶತಮಾನ",
+        "bio":  "Allama Prabhu was a mystic poet and spiritual guide of the Vachana movement. His sayings are compact, paradoxical, and deeply philosophical. He served as a presiding presence in the Anubhava Mantapa and pushed seekers beyond outer signs of religion. His poetry explores silence, emptiness, awareness, and the hidden presence of Guheshwara.",
+        "name":  "Allama Prabhu",
+        "nameKannada":  "ಅಲ್ಲಮ ಪ್ರಭು",
+        "famousWorks":  [
+                            "Allama Vachanas",
+                            "Guheshwara Vachanas",
+                            "Mystic Dialogues",
+                            "Anubhava Mantapa Teachings"
+                        ],
+        "photoPlaceholderColor":  "#4D4238"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fpurandara.jpg?alt=media",
+        "id":  4,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಪುರಂದರದಾಸರನ್ನು ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ ಮತ್ತು ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಮಹಾನ್ ಕವಿಯಾಗಿ ಗೌರವಿಸಲಾಗುತ್ತದೆ. ಸರಳ ಕನ್ನಡದಲ್ಲಿ ರಚಿಸಿದ ಅವರ ದೇವರನಾಮಗಳು ತತ್ವಜ್ಞಾನವನ್ನು ಮನೆ, ಬೀದಿ ಮತ್ತು ದೇವಾಲಯಗಳಿಗೆ ತಲುಪಿಸಿವೆ. ವಿಠ್ಠಲನ ಸ್ತುತಿಯ ಜೊತೆಗೆ ವಿನಯ, ನೀತಿ ಮತ್ತು ಶರಣಾಗತಿಯನ್ನು ಅವರು ಬೋಧಿಸಿದರು. ಅವರ ಸಂಗೀತ ಪಾಠಪದ್ದತಿ ಇಂದಿಗೂ ದಕ್ಷಿಣ ಭಾರತದ ಶಾಸ್ತ್ರೀಯ ತರಬೇತಿಗೆ ಆಧಾರವಾಗಿದೆ.",
+        "period":  "15th–16th Century / 15–16ನೇ ಶತಮಾನ (1484–1564)",
+        "bio":  "Purandaradasa is revered as the father of Carnatic music and a towering Haridasa poet. He composed devotional songs in accessible Kannada that carried philosophy into homes, streets, and temples. His works praise Vittala while teaching humility, ethics, and surrender. His musical pedagogy continues to shape classical training across South India.",
+        "name":  "Purandaradasa",
+        "nameKannada":  "ಪುರಂದರದಾಸ",
+        "famousWorks":  [
+                            "Purandara Dasa Keertanes",
+                            "Jagadoddharana",
+                            "Vittala Songs",
+                            "Ugabhogas"
+                        ],
+        "photoPlaceholderColor":  "#99621E"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fkanaka.jpg?alt=media",
+        "id":  5,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಕನಕದಾಸರು ಹರಿದಾಸ ಪರಂಪರೆಯ ಸಂತಕವಿ, ಸಂಗೀತಗಾರ ಮತ್ತು ಸಮಾಜ ವಿಮರ್ಶಕರಾಗಿದ್ದರು. ಕೃಷ್ಣಭಕ್ತಿಯೊಂದಿಗೆ ಅಸಮಾನತೆ ಮತ್ತು ಮಾನವ ಅಹಂಕಾರದ ತೀಕ್ಷ್ಣ ಅರಿವು ಅವರ ಹಾಡುಗಳಲ್ಲಿ ಬೆರೆತಿದೆ. ಸಾಮಾನ್ಯ ಶ್ರೋತರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಅರಿವು ತಲುಪಲು ಅವರು ಕನ್ನಡ ನುಡಿಗಟ್ಟನ್ನು ಬಳಿಸಿದರು. ಅವರ ಜೀವನ ಮತ್ತು ಕಾವ್ಯವು ಗೌರವ, ಪ್ರಶ್ನಿಸುವ ಮನೋಭಾವ ಮತ್ತು ಸಮಾನ ಭಕ್ತಿಯ ಸಂಕೇತವಾಗಿದೆ.",
+        "period":  "15th–16th Century / 15–16ನೇ ಶತಮಾನ (1509–1609)",
+        "bio":  "Kanakadasa was a saint-poet, composer, and social critic of the Haridasa tradition. His songs combine devotion to Krishna with sharp awareness of inequality and human pride. He used Kannada idiom to make spiritual insight available to ordinary listeners. His life and poetry continue to symbolize dignity, questioning, and inclusive bhakti.",
+        "name":  "Kanakadasa",
+        "nameKannada":  "ಕನಕದಾಸ",
+        "famousWorks":  [
+                            "Mohana Tarangini",
+                            "Nalacharitre",
+                            "Haribhakti Sara",
+                            "Kanaka Keertanes"
+                        ],
+        "photoPlaceholderColor":  "#6E5A2E"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fkuvempu.jpg?alt=media",
+        "id":  6,
+        "jnanpithYear":  1967,
+        "bioKannada":  "ಕುವೆಂಪು ಕವಿ, ಕಾದಂಬರಿಕಾರ, ನಾಟಕಕಾರ, ಚಿಂತಕ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪಡೆದ ಮೊದಲ ಕನ್ನಡ ಲೇಖಕರಾಗಿದ್ದರು. ವಿಶ್ವಮಾನವದ ದೃಷ್ಟಿಯನ್ನು ಕನ್ನಡಕ್ಕೆ ನೀಡಿದವರು ಅವರು. ಪ್ರಕೃತಿ, ಮಾನವ ಗೌರವ, ವಿಚಾರಶೀಲತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನೆಲೆಯನ್ನು ಅವರ ಕೃತಿಗಳು ಒಗ್ಗೂಡಿಸುತ್ತವೆ. ಕರ್ನಾಟಕದ ನಾಡಗೀತೆಯನ್ನು ರಚಿಸಿದ ಅವರು ಆಧುನಿಕ ಕನ್ನಡ ಕಲ್ಪನೆಗೆ ಹೊಸ ರೂಪ ನೀಡಿದರು.",
+        "period":  "20th Century / 20ನೇ ಶತಮಾನ (1904–1994)",
+        "bio":  "Kuvempu was a poet, novelist, playwright, thinker, and the first Kannada writer to receive the Jnanpith Award. He gave Kannada the vision of Vishwamanava, the universal human. His works unite nature, human dignity, rationality, and cultural rootedness. He also wrote the Karnataka state anthem and transformed modern Kannada imagination.",
+        "name":  "Kuvempu (K.V. Puttappa)",
+        "nameKannada":  "ಕುವೆಂಪು",
+        "famousWorks":  [
+                            "Sri Ramayana Darshanam",
+                            "Malegalalli Madumagalu",
+                            "Jaya Bharata Jananiya Tanujate",
+                            "Vishwamanava Sandesha"
+                        ],
+        "photoPlaceholderColor":  "#2F6B4F"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fbendre.jpg?alt=media",
+        "id":  7,
+        "jnanpithYear":  1974,
+        "bioKannada":  "ದ.ರಾ. ಬೇಂದ್ರೆ, ಅಂಬಿಕಾತನಯದತ್ತ ಎಂಬ ಕಾವ್ಯನಾಮದಿಂದಲೂ ಪ್ರಸಿದ್ಧರು, ಆಧುನಿಕ ಕನ್ನಡ ಕಾವ್ಯದ ಕೇಂದ್ರ ಧ್ವನಿಗಳಲ್ಲಿ ಒಬ್ಬರು. ಅವರ ಭಾಷೆ ಸಂಗೀತಮಯ, ಆತ್ಮೀಯ ಮತ್ತು ಜನಪದ ಲಯಗಳಲ್ಲಿ ನೆಲಸಿದೆ. ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಗಾಗಿ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು. ಪ್ರೀತಿ, ಪ್ರಕೃತಿ, ತಾಯಿತನ, ಕಾಲ ಮತ್ತು ದೈನಂದಿನ ಜೀವನದ ರಹಸ್ಯಗಳನ್ನು ಅವರ ಕವಿತೆಗಳು ಅನ್ವೇಷಿಸುತ್ತವೆ.",
+        "period":  "20th Century / 20ನೇ ಶತಮಾನ (1896–1981)",
+        "bio":  "Da.Ra. Bendre, also known by the pen name Ambikatanayadatta, was one of the central voices of modern Kannada poetry. His language is musical, intimate, and rooted in folk rhythms. He received the Jnanpith Award for his major contribution to Kannada literature. His poems explore love, nature, motherhood, time, and the mystery of everyday life.",
+        "name":  "Da.Ra. Bendre",
+        "nameKannada":  "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "famousWorks":  [
+                            "Nakutanti",
+                            "Gari",
+                            "Sakhigeeta",
+                            "Naaku Tanti"
+                        ],
+        "photoPlaceholderColor":  "#355C7D"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fgss.jpg?alt=media",
+        "id":  8,
+        "jnanpithYear":  2006,
+        "bioKannada":  "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ ಕವಿ, ವಿಮರ್ಶಕ, ಅಧ್ಯಾಪಕ ಮತ್ತು ಕರ್ನಾಟಕದ ಗೌರವಾನ್ವಿತ ಸಾಹಿತ್ಯ ಧ್ವನಿಗಳಲ್ಲಿ ಒಬ್ಬರು. ರಾಷ್ಟ್ರಕವಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿ ಅಧ್ಯಯನ ಮತ್ತು ಕಾವ್ಯದ ಮೂಲಕ ಪೀಳಿಗೆಗಳನ್ನು ರೂಪಿಸಿದರು. ಸ್ಪಷ್ಟತೆ, ನೈತಿಕ ಆತ್ಮಪರಿಶೀಲನೆ ಮತ್ತು ಮಾನವೀಯ ಕಾಳಜಿ ಅವರ ಕವಿತೆಗಳ ಲಕ್ಷಣ. ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಅವರ ಶಾಶ್ವತ ಕೊಡುಗೆಗಾಗಿ 2006ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+        "period":  "20th–21st Century / 20–21ನೇ ಶತಮಾನ (1926–2013)",
+        "bio":  "G.S. Shivarudrappa was a poet, critic, teacher, and one of the most respected literary voices of Karnataka. He served as Rashtrakavi and shaped generations through scholarship and poetry. His poems are known for clarity, moral introspection, and humane concern. He received the Jnanpith Award in 2006 for his lasting contribution to Kannada literature.",
+        "name":  "G.S. Shivarudrappa",
+        "nameKannada":  "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+        "famousWorks":  [
+                            "Samagra Kavya",
+                            "Ede Tumbi Hadidenu",
+                            "Anavarana",
+                            "Kavyartha Chintane"
+                        ],
+        "photoPlaceholderColor":  "#5F4B8B"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fksn.jpg?alt=media",
+        "id":  9,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ ಮನೆಮಾತಾದ ಪ್ರೀತಿ ಮತ್ತು ಮೃದು ಭಾವಗಳಿಗಾಗಿ ಪ್ರಸಿದ್ಧರಾದ ಪ್ರಿಯ ಕನ್ನಡ ಗೀತಕವಿ. ಮೈಸೂರು ಮಲ್ಲಿಗೆ ಕೃತಿಯಿಂದ ಆತ್ಮೀಯ ಭಾವನೆ ಸಾರ್ವಜನಿಕ ಕಾವ್ಯಕಲ್ಪನೆಯ ಭಾಗವಾಯಿತು. ಸೂಕ್ಷ್ಮತೆ, ಸಂಗೀತಮಯತೆ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಸಂಯಮದಿಂದ ಅವರು ಬರೆದರು. ಸರಳತೆಯನ್ನು ಕಳೆದುಕೊಳ್ಳದೆ ಸಾಮಾನ್ಯ ಪ್ರೀತಿಯನ್ನು ಪ್ರಕಾಶಮಾನಗೊಳಿಸುವುದು ಅವರ ಕಾವ್ಯದ ವೈಶಿಷ್ಟ್ಯ.",
+        "period":  "20th Century / 20ನೇ ಶತಮಾನ (1915–2003)",
+        "bio":  "K.S. Narasimhaswamy was a beloved Kannada lyric poet best known for poems of domestic love and tenderness. His Mysuru Mallige made intimate emotion part of the public poetic imagination. He wrote with delicacy, musicality, and emotional restraint. His poetry keeps ordinary affection luminous without losing simplicity.",
+        "name":  "K.S. Narasimhaswamy",
+        "nameKannada":  "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+        "famousWorks":  [
+                            "Mysuru Mallige",
+                            "Shilalate",
+                            "Tereda Bagilu",
+                            "Maneyinda Manege"
+                        ],
+        "photoPlaceholderColor":  "#A65E49"
+    },
+    {
+        "photoUrl":  "https://firebasestorage.googleapis.com/v0/b/kavyakanaja.appspot.com/o/poets%2Fpampa.jpg?alt=media",
+        "id":  10,
+        "jnanpithYear":  null,
+        "bioKannada":  "ಪಂಪರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಇತಿಹಾಸದ ಆದಿಕವಿ ಎಂದು ಗೌರವಿಸಲಾಗುತ್ತದೆ. ಅವರ ಚಂಪು ಕೃತಿಗಳು ಶಾಸ್ತ್ರೀಯ ಕನ್ನಡಕ್ಕೆ ವೈಭವ, ವಿನ್ಯಾಸ ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ನೀಡಿದವು. ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯವು ಮಹಾಭಾರತವನ್ನು ಅರ್ಜುನನ ವೀರರೂಪದ ಮೂಲಕ ಮರುಕಲ್ಪಿಸಿತು. ಅವರ ಕಾವ್ಯವು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರಾಜಸ, ನೈತಿಕ ಮತ್ತು ಸೌಂದರ್ಯಾತ್ಮಕ ನೆಲೆಗಳನ್ನು ರೂಪಿಸಿತು.",
+        "period":  "10th Century / 10ನೇ ಶತಮಾನ (c.902–975)",
+        "bio":  "Pampa is celebrated as Adikavi, the first great poet of Kannada literary history. His Champu works established grandeur, structure, and elegance in classical Kannada. Vikramarjuna Vijaya reimagined the Mahabharata through the heroic figure of Arjuna. His poetry shaped the courtly, ethical, and aesthetic foundations of Kannada literature.",
+        "name":  "Pampa (Adikavi Pampa)",
+        "nameKannada":  "ಪಂಪ",
+        "famousWorks":  [
+                            "Adi Purana",
+                            "Vikramarjuna Vijaya",
+                            "Pampa Bharata",
+                            "Classical Champu Poems"
+                        ],
+        "photoPlaceholderColor":  "#7A3E22"
+    }
+]

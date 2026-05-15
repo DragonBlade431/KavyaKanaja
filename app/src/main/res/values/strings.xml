@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">ಕಾವ್ಯ-ಕಣಜ</string>
+  <string name="app_name_english">Kavya-Kanaja</string>
+  <string name="poem_of_the_day_kn">ಇಂದಿನ ಕವಿತೆ</string>
+  <string name="poem_of_the_day_en">Poem of the Day</string>
+  <string name="read_and_listen_kn">ಓದಿ ಕೇಳಿ</string>
+  <string name="read_and_listen_en">Read &amp; Listen</string>
+  <string name="word_meaning_kn">ಪದ ಅರ್ಥ</string>
+  <string name="word_meaning_en">Word Meaning</string>
+  <string name="bhavartha_kn">ಭಾವಾರ್ಥ</string>
+  <string name="bhavartha_en">Meaning &amp; Essence</string>
+  <string name="poets_corner_kn">ಕವಿಗಳ ಮೂಲೆ</string>
+  <string name="poets_corner_en">Poet\'s Corner</string>
+  <string name="jnanpith_kn">ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು</string>
+  <string name="jnanpith_en">Jnanpith Award Winners</string>
+  <string name="audio_coming_soon_kn">ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ</string>
+  <string name="audio_coming_soon_en">Audio Coming Soon</string>
+  <string name="loading_kn">ಕಾವ್ಯ ತರಲಾಗುತ್ತಿದೆ...</string>
+  <string name="loading_en">Loading poems...</string>
+  <string name="offline_kn">ಆಫ್‌ಲೈನ್</string>
+  <string name="offline_en">Offline</string>
+  <string name="retry_kn">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+  <string name="retry_en">Retry</string>
+</resources>

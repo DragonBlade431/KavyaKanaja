@@ -1,0 +1,9 @@
+gcloud_key.json
+firebase_key.json
+*.jks
+local.properties
+*.keystore
+/build
+app/build
+.gradle
+.idea
