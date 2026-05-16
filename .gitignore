@@ -1,9 +1,12 @@
 gcloud_key.json
 firebase_key.json
 *.jks
-local.properties
 *.keystore
+local.properties
 /build
 app/build
 .gradle
+.venv/
+/audio/
+.vscode/
 .idea

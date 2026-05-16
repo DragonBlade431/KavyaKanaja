@@ -8,6 +8,7 @@ import com.kavyakanaja.app.utils.JsonLoader
 import com.kavyakanaja.app.utils.NetworkUtils
 import java.util.Calendar
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.withTimeoutOrNull
 
 class PoemRepository(private val context: Context) {
   private val db = AppDatabase.getInstance(context)
@@ -21,11 +22,13 @@ class PoemRepository(private val context: Context) {
     val localSeed = JsonLoader.loadPoemsFromJson(context)
     if (dao.count() == 0) dao.insertAll(localSeed)
     if (NetworkUtils.isOnline(context)) {
-      if (firestoreService.isPoemsCollectionEmpty()) {
-        firestoreService.seedPoems(localSeed)
-      } else {
-        val remotePoems = firestoreService.fetchAllPoems()
-        if (remotePoems.isNotEmpty()) dao.insertAll(remotePoems)
+      withTimeoutOrNull(8000) {
+        if (firestoreService.isPoemsCollectionEmpty()) {
+          firestoreService.seedPoems(localSeed)
+        } else {
+          val remotePoems = firestoreService.fetchAllPoems()
+          if (remotePoems.isNotEmpty()) dao.insertAll(remotePoems)
+        }
       }
     }
   }

@@ -7,6 +7,7 @@ import com.kavyakanaja.app.data.remote.FirestoreService
 import com.kavyakanaja.app.utils.JsonLoader
 import com.kavyakanaja.app.utils.NetworkUtils
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.withTimeoutOrNull
 
 class PoetRepository(private val context: Context) {
   private val db = AppDatabase.getInstance(context)
@@ -20,11 +21,13 @@ class PoetRepository(private val context: Context) {
     val localPoets = JsonLoader.loadPoetsFromJson(context)
     if (dao.count() == 0) dao.insertAll(localPoets)
     if (NetworkUtils.isOnline(context)) {
-      if (firestoreService.isPoetsCollectionEmpty()) {
-        firestoreService.seedPoets(localPoets)
-      } else {
-        val remotePoets = firestoreService.fetchAllPoets()
-        if (remotePoets.isNotEmpty()) dao.insertAll(remotePoets)
+      withTimeoutOrNull(8000) {
+        if (firestoreService.isPoetsCollectionEmpty()) {
+          firestoreService.seedPoets(localPoets)
+        } else {
+          val remotePoets = firestoreService.fetchAllPoets()
+          if (remotePoets.isNotEmpty()) dao.insertAll(remotePoets)
+        }
       }
     }
   }

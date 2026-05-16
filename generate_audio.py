@@ -14,7 +14,7 @@ POEMS_JSON_PATH = PROJECT_ROOT / "app" / "src" / "main" / "res" / "raw" / "poems
 GCLOUD_KEY_PATH = PROJECT_ROOT / "gcloud_key.json"
 FIREBASE_KEY_PATH = PROJECT_ROOT / "firebase_key.json"
 OUTPUT_AUDIO_DIR = PROJECT_ROOT / "audio"
-BUCKET_NAME = "kavyakanaja.appspot.com"
+BUCKET_NAME = "kavyakanaja-922de.firebasestorage.app"
 CHECK = "\u2713"
 CROSS = "\u2717"
 

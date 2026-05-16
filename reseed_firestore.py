@@ -10,7 +10,7 @@ from firebase_admin import firestore
 PROJECT_ROOT = Path(__file__).resolve().parent
 POEMS_JSON_PATH = PROJECT_ROOT / "app" / "src" / "main" / "res" / "raw" / "poems.json"
 FIREBASE_KEY_PATH = PROJECT_ROOT / "firebase_key.json"
-BUCKET_NAME = "kavyakanaja.appspot.com"
+BUCKET_NAME = "kavyakanaja-922de.firebasestorage.app"
 COLLECTION_NAME = "poems"
 BATCH_LIMIT = 450
 
